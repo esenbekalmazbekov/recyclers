@@ -25,4 +25,12 @@
         app:layout_constraintStart_toEndOf="@+id/simple"
         app:layout_constraintTop_toBottomOf="@+id/simple" />
 
+    <Button
+        android:id="@+id/selectedItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="selectedItem"
+        app:layout_constraintTop_toBottomOf="@+id/staggered"
+        tools:layout_editor_absoluteX="116dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".scrollanim.ScrollRecyclerActivity"></activity>
+        <activity android:name=".selecteditem.SelectedItemActivity"></activity>
+        <activity android:name=".scrollanim.ScrollRecyclerActivity" />
         <activity android:name=".staggered.StaggeredRecyclerActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>

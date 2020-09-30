@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerLessons</string>
+    <string name="log_to_selected">log to selected</string>
 </resources>
